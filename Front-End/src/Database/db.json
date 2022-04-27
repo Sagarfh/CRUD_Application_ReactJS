@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Sagar Honnabindagi",
+      "username": "Sagar",
+      "email": "sagar@gmail.com",
+      "phone": "8553829986",
+      "id": 1
+    },
+    {
+      "name": "Rohan Sharma",
+      "username": "rohan",
+      "email": "rohan@gmail.com",
+      "phone": "8542563210",
+      "id": 2
+    }
+  ]
+}
